@@ -1,5 +1,8 @@
                             #Assignment 2
-
+# Name : Navodit Gupta
+# SID  : 21107082
+#Branch: Mechanical
+  
 #Q1
 str1 = "Python is a case sensitive language"
 #a
