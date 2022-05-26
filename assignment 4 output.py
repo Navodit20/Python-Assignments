@@ -1,7 +1,3 @@
-Python 3.10.2 (tags/v3.10.2:a58ebcc, Jan 17 2022, 14:12:15) [MSC v.1929 64 bit (AMD64)] on win32
-Type "help", "copyright", "credits" or "license()" for more information.
-
-= RESTART: C:/Users/Navodit/AppData/Local/Programs/Python/Python310/assignments/assignment 4.py
 Q1
 Enter mark:70
 Grade: B
@@ -37,4 +33,4 @@ Right!
 Question 10:7x6=42
 Right!
 Q4
-177
+Answer: 177
