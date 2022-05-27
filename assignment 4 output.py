@@ -1,13 +1,6 @@
 Q1
 Enter mark:70
 Grade: B
-Continue?(y/n)y
-Enter mark:80
-Grade: A
-Continue?(y/n)y
-Enter mark:69
-Grade: B
-Continue?(y/n)n
 Q2
 Enter year:3042
 Not a leap year
