@@ -33,10 +33,10 @@ Q4
 Q5
 Enter number of rows:5
 A 
-B C 
-D E F 
-G H I J 
-K L M N O 
+BC 
+DEF 
+GHIJ 
+KLMNO 
 
 Q6
 Prime numbers in an input range.
