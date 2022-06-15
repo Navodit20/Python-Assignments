@@ -1,4 +1,7 @@
-# Assignment 5
+#                                                                       Assignment 5
+# Name: Navodit Gupta
+# SID : 21107082
+# Branch: Mechanical
 print("Q1")
 string = input("Enter a string(without apostrophes) and it will be reversed:")
 print("Reversed string:", string[::-1])
@@ -93,7 +96,7 @@ for k in Dict:
 
 
 print('\nQ9')
-lst = eval(input("Enter a list of words(strings):"))
+lst = eval(input("Enter a list of words(strings) (e.g. input: ['hello','world']) :"))
 dct = {}
 for i in lst:
     dct[i] = lst.count(i)
