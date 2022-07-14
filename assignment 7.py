@@ -1,4 +1,7 @@
-
+#Assignment 7
+#Name: Navodit Gupta
+#SID: 21107082
+#Branch: Mechanical
 from tkinter import *
   
 # Function for finding GST rate
